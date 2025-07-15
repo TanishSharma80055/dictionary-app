@@ -33,16 +33,6 @@ It fetches meanings, pronunciation, and examples using the [Free Dictionary API]
 ---
 
 
-## 📁 Folder Structure
-dictionary-app/
-├── index.html
-├── style.css
-├── script.js
-└── README.md
-
----
-
-
 ## 🙌 Made By
 
 **Tanish Sharma**  
